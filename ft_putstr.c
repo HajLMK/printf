@@ -1,8 +1,8 @@
 
 
-#include "printf.h"
+#include "main.h"
 
-int	fti_putstr(char *s)
+int	ft_putstr(char *s)
 {
 	int	i;
 
